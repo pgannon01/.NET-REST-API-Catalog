@@ -1,0 +1,50 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ganno\\Documents\\Other Projects\\.NET\\REST API Tutorial\\Catalog\\build.proj": {}
+  },
+  "projects": {
+    "C:\\Users\\ganno\\Documents\\Other Projects\\.NET\\REST API Tutorial\\Catalog\\build.proj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ganno\\Documents\\Other Projects\\.NET\\REST API Tutorial\\Catalog\\build.proj",
+        "projectName": "build",
+        "projectPath": "C:\\Users\\ganno\\Documents\\Other Projects\\.NET\\REST API Tutorial\\Catalog\\build.proj",
+        "packagesPath": "C:\\Users\\ganno\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ganno\\Documents\\Other Projects\\.NET\\REST API Tutorial\\Catalog\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ganno\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net45"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net45": {
+            "targetAlias": "net45",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {
+          "targetAlias": "net45",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

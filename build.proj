@@ -1,0 +1,6 @@
+<!-- Allows us to build all our projects in one command -->
+<Project Sdk="Microsoft.Build.Traversal/3.0.3">
+    <ItemGroup> 
+        <ProjectReference Include="**\*.*proj" /> <!-- Any files that end in .proj will be built -->
+    </ItemGroup>
+</Project>

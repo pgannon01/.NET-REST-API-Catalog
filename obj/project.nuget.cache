@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EzmbxEVwrLFj/srCN3P4qike9d3xMSKD+Cy+JZjDBJ/KvXEGvYBpv939YxvTsAiHlRygd2cT8urvnABqNb2MXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ganno\\Documents\\Other Projects\\.NET\\REST API Tutorial\\Catalog\\build.proj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ganno\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\ganno\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net45\\1.0.2\\microsoft.netframework.referenceassemblies.net45.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
